@@ -1,6 +1,7 @@
 #include "Transform.h"
 
-std::string Transform::ToString() const
+template <class T>
+std::string Transform<T>::ToString() const
 {
 	std::string output_string;
 

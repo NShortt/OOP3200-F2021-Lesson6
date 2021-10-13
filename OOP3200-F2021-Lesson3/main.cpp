@@ -2,8 +2,11 @@
  * Author: Tom Tsiliopoulos
  * StudentID: 100100100
  *
- * Date: September 20, 2021
- * Description: Demo Project for OOP3200 - F2021 - Week 3
+ * Author: Nicholas Shortt
+ * StudentID: 100630003
+ *
+ * Date: October 13, 2021
+ * Description: Demo Project for OOP3200 - F2021 - Week 6
  * 
  */
 
